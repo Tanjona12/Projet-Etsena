@@ -1,4 +1,3 @@
-# Projet-Etsena
 Front-end:
 - HTML template & CSS
 

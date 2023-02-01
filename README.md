@@ -5,5 +5,5 @@ Front-end:
 Back-end:
 - Php
 - MySql
--JavaScript
+- JavaScript
 
